@@ -1,5 +1,6 @@
 <template>
   <div class="row">
+    <h2>Quotes Added</h2>
     <div class="col-sm-12">
       <div class="progress">
         <div
